@@ -1,0 +1,20 @@
+
+piaodai.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+piao_01
+  rotate: false
+  xy: 2, 188
+  size: 646, 150
+  orig: 646, 150
+  offset: 0, 0
+  index: -1
+piao_02
+  rotate: false
+  xy: 2, 2
+  size: 465, 184
+  orig: 465, 184
+  offset: 0, 0
+  index: -1

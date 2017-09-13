@@ -1,0 +1,286 @@
+
+MT_meizi.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+MT_bizi
+  rotate: false
+  xy: 686, 482
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+MT_datui
+  rotate: true
+  xy: 436, 734
+  size: 131, 356
+  orig: 131, 356
+  offset: 0, 0
+  index: -1
+MT_duandai_01
+  rotate: true
+  xy: 540, 460
+  size: 46, 144
+  orig: 46, 144
+  offset: 0, 0
+  index: -1
+MT_duandai_02
+  rotate: false
+  xy: 100, 25
+  size: 59, 102
+  orig: 59, 102
+  offset: 0, 0
+  index: -1
+MT_piaodai
+  rotate: false
+  xy: 164, 184
+  size: 116, 336
+  orig: 116, 336
+  offset: 0, 0
+  index: -1
+MT_qugan
+  rotate: true
+  xy: 178, 522
+  size: 202, 301
+  orig: 202, 301
+  offset: 0, 0
+  index: -1
+MT_qunzi
+  rotate: true
+  xy: 436, 867
+  size: 155, 378
+  orig: 155, 378
+  offset: 0, 0
+  index: -1
+MT_saizi_01
+  rotate: false
+  xy: 982, 923
+  size: 23, 99
+  orig: 23, 99
+  offset: 0, 0
+  index: -1
+MT_saizi_02
+  rotate: false
+  xy: 794, 784
+  size: 20, 81
+  orig: 20, 81
+  offset: 0, 0
+  index: -1
+MT_shenzi
+  rotate: false
+  xy: 481, 508
+  size: 224, 224
+  orig: 224, 224
+  offset: 0, 0
+  index: -1
+MT_shi002
+  rotate: true
+  xy: 161, 25
+  size: 8, 26
+  orig: 8, 26
+  offset: 0, 0
+  index: -1
+MT_shi003
+  rotate: true
+  xy: 436, 726
+  size: 6, 38
+  orig: 6, 38
+  offset: 0, 0
+  index: -1
+MT_shi01
+  rotate: false
+  xy: 259, 138
+  size: 7, 44
+  orig: 7, 44
+  offset: 0, 0
+  index: -1
+MT_tou
+  rotate: false
+  xy: 178, 726
+  size: 256, 296
+  orig: 256, 296
+  offset: 0, 0
+  index: -1
+MT_tou_fa01
+  rotate: false
+  xy: 361, 176
+  size: 109, 122
+  orig: 109, 122
+  offset: 0, 0
+  index: -1
+MT_tou_fa02
+  rotate: false
+  xy: 816, 912
+  size: 164, 110
+  orig: 164, 110
+  offset: 0, 0
+  index: -1
+MT_tou_fa03
+  rotate: false
+  xy: 707, 548
+  size: 85, 184
+  orig: 85, 184
+  offset: 0, 0
+  index: -1
+MT_tou_fa04_001
+  rotate: true
+  xy: 473, 299
+  size: 67, 121
+  orig: 67, 121
+  offset: 0, 0
+  index: -1
+MT_tou_fa04_002
+  rotate: false
+  xy: 473, 368
+  size: 65, 138
+  orig: 65, 138
+  offset: 0, 0
+  index: -1
+MT_tou_zhegai
+  rotate: false
+  xy: 472, 203
+  size: 74, 94
+  orig: 74, 94
+  offset: 0, 0
+  index: -1
+MT_toufa02
+  rotate: true
+  xy: 540, 368
+  size: 90, 99
+  orig: 90, 99
+  offset: 0, 0
+  index: -1
+MT_toufa03
+  rotate: true
+  xy: 816, 884
+  size: 26, 122
+  orig: 26, 122
+  offset: 0, 0
+  index: -1
+MT_touhua_001
+  rotate: false
+  xy: 880, 836
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+MT_yaodai
+  rotate: true
+  xy: 2, 2
+  size: 125, 96
+  orig: 125, 96
+  offset: 0, 0
+  index: -1
+MT_yaodai_02
+  rotate: false
+  xy: 641, 382
+  size: 42, 76
+  orig: 42, 76
+  offset: 0, 0
+  index: -1
+MT_youerhuan
+  rotate: false
+  xy: 548, 227
+  size: 41, 70
+  orig: 41, 70
+  offset: 0, 0
+  index: -1
+MT_zuoerhuan
+  rotate: false
+  xy: 548, 227
+  size: 41, 70
+  orig: 41, 70
+  offset: 0, 0
+  index: -1
+MT_youjian
+  rotate: false
+  xy: 161, 35
+  size: 70, 71
+  orig: 70, 71
+  offset: 0, 0
+  index: -1
+MT_youmei
+  rotate: false
+  xy: 472, 185
+  size: 46, 16
+  orig: 46, 16
+  offset: 0, 0
+  index: -1
+MT_youshou
+  rotate: false
+  xy: 2, 543
+  size: 174, 479
+  orig: 174, 479
+  offset: 0, 0
+  index: -1
+MT_youyan
+  rotate: true
+  xy: 816, 783
+  size: 50, 54
+  orig: 50, 54
+  offset: 0, 0
+  index: -1
+MT_yuoyan_02
+  rotate: false
+  xy: 707, 504
+  size: 50, 42
+  orig: 50, 42
+  offset: 0, 0
+  index: -1
+MT_zui
+  rotate: false
+  xy: 940, 888
+  size: 33, 22
+  orig: 33, 22
+  offset: 0, 0
+  index: -1
+MT_zuojian
+  rotate: true
+  xy: 164, 108
+  size: 74, 93
+  orig: 74, 93
+  offset: 0, 0
+  index: -1
+MT_zuomei
+  rotate: false
+  xy: 100, 5
+  size: 43, 18
+  orig: 43, 18
+  offset: 0, 0
+  index: -1
+MT_zuoshou
+  rotate: false
+  xy: 361, 300
+  size: 110, 220
+  orig: 110, 220
+  offset: 0, 0
+  index: -1
+MT_zuoxiu_01
+  rotate: false
+  xy: 2, 129
+  size: 160, 412
+  orig: 160, 412
+  offset: 0, 0
+  index: -1
+MT_zuoxiu_02
+  rotate: false
+  xy: 282, 183
+  size: 77, 337
+  orig: 77, 337
+  offset: 0, 0
+  index: -1
+MT_zuoyan
+  rotate: false
+  xy: 596, 304
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+MT_zuoyan_02
+  rotate: false
+  xy: 816, 835
+  size: 62, 47
+  orig: 62, 47
+  offset: 0, 0
+  index: -1
